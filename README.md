@@ -3,11 +3,6 @@
 
 This project aims to detect **fake product reviews** using supervised machine learning techniques. The motivation stems from the increasing presence of deceptive reviews that mislead consumers and damage trust in online platforms.
 
-## 👩‍💻 Authors
-- Bhavana Veram Reddy  
-- Divya Reddy Yalla  
-(Graduate students, MPS in Data Science – UMBC
-
 ---
 
 ## 📌 Objectives
